@@ -3,21 +3,22 @@
 Autor: Václav Cieslar  
 Název SQL skriptu: Script-1.sql
 
-# Popis projektu
+## Popis projektu
 V rámci tohoto projektu jsem vytvořil tabulku t_vaclav_cieslar_project_sql_primary_final, která obsahuje data o:
 - Průměrné mzdě v jednotlivých odvětvích v České republice,
 - Cenách potravin podle kategorií ve stejném období.
 
-# Obsah tabulky
+## Obsah tabulky
 
-| Sloupec           | Popis                   |
-| year              | Rok                     |
-| industry_name     | Název odvětví           |
-| average_wage      | Průměrná mzda v odvětví |
-| food_category     | Kategorie potravin      |
-| average_food_price| Průměrná cena potravin  |
+| Sloupec             | Popis                   |
+|---------------------|-------------------------|
+| year              | Rok                       |
+| industry_name     | Název odvětví.            |
+| average_wage      | Průměrná mzda v odvětví.  |
+| food_category     | Kategorie potravin.       |
+| average_food_price| Průměrná cena potravin.   |
 
-# Kroky v SQL skriptu
+## Kroky v SQL skriptu
 
 1. Vytvoření tabulky:
    - Skript nejdříve vytvoří tabulku se sloupci podle zadání.
