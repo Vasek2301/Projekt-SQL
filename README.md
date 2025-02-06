@@ -32,13 +32,13 @@ V rámci tohoto projektu jsem vytvořil tabulku t_vaclav_cieslar_project_sql_pri
    - Použil jsem AVG pro výpočet průměrných hodnot a GROUP BY pro seskupení dat.
 
 # Projekt SQL – Sekundární tabulka
-Autor: Václav Cieslar
+Autor: Václav Cieslar  
 Název SQL skriptu: Script-2.sql
 
-Popis projektu
+## Popis projektu
 V rámci tohoto projektu jsem vytvořil tabulku t_vaclav_cieslar_project_sql_secondary_final, která obsahuje dodatečná data o evropských státech. Tato tabulka umožňuje porovnat ekonomické ukazatele jednotlivých zemí, což pomůže odpovědět na otázku, zda má výše HDP vliv na změny ve mzdách a cenách potravin.
 
-Obsah tabulky
+## Obsah tabulky
 | Sloupec	         |  Popis                                   |
 |--------------------|------------------------------------------|
 | year	            | Rok                                      |
@@ -47,7 +47,7 @@ Obsah tabulky
 | unemployment_rate	| Míra nezaměstnanosti                     |
 | gdp	               | Hrubý domácí produkt (HDP) v miliardách  |
 
-🛠 Kroky v SQL skriptu
+## Kroky v SQL skriptu
 
 1. Vytvoření tabulky
 Skript nejprve vytvoří tabulku s výše uvedenými sloupci.
