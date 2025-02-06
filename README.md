@@ -31,7 +31,7 @@ V rámci tohoto projektu jsem vytvořil tabulku t_vaclav_cieslar_project_sql_pri
 3. Agregace dat:
    - Použil jsem AVG pro výpočet průměrných hodnot a GROUP BY pro seskupení dat.
 
-Projekt SQL – Sekundární tabulka
+# Projekt SQL – Sekundární tabulka
 Autor: Václav Cieslar
 Název SQL skriptu: Script-2.sql
 
