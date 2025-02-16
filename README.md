@@ -63,3 +63,7 @@ Year byl převeden na BIGINT, protože v některých tabulkách byl jako text.
 4. Filtrování dat
 Vyřazené záznamy s NULL hodnotami v population, unemployment_rate a gdp.
 
+
+# Otázka č. 1: Rostou mzdy ve všech odvětvích, nebo v některých klesají?
+Podle dat mzdy ve všech odvětvích rostly, žádné nešlo dolů. Největší růst byl v IT a komunikacích (+20 733 Kč), naopak nejpomaleji rostly mzdy v nemovitostech (+9 187 Kč).
+Mzdy tedy rostly všude, ale některá odvětví rychleji než jiná. IT šlo nahoru nejvíc, zatímco třeba reality nebo doprava rostly pomaleji.
