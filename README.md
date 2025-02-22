@@ -70,3 +70,6 @@ Mzdy tedy rostly všude, ale některá odvětví rychleji než jiná. IT šlo na
 
 # Otázka č. 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 V roce 2006 bylo možné si za průměrnou mzdu koupit 1 482 litrů mléka a 1 297 kg chleba, zatímco v roce 2018 to bylo 1 627 litrů mléka a 1 356 kg chleba. To znamená, že dostupnost těchto potravin se za sledované období mírně zlepšila.
+
+# Otázka č. 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+Mezi potraviny s nejpomalejším růstem cen (tedy s nejnižší kladnou procentuální změnou) patří například banány s 7% nárůstem. Naopak některé potraviny, jako cukr krystalový a rajská jablka červená kulatá, v průběhu let dokonce zlevnily.
