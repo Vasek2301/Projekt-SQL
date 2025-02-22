@@ -67,3 +67,6 @@ Vyřazené záznamy s NULL hodnotami v population, unemployment_rate a gdp.
 # Otázka č. 1: Rostou mzdy ve všech odvětvích, nebo v některých klesají?
 Podle dat mzdy ve všech odvětvích rostly, žádné nešlo dolů. Největší růst byl v IT a komunikacích (+20 733 Kč), naopak nejpomaleji rostly mzdy v nemovitostech (+9 187 Kč).
 Mzdy tedy rostly všude, ale některá odvětví rychleji než jiná. IT šlo nahoru nejvíc, zatímco třeba reality nebo doprava rostly pomaleji.
+
+# Otázka č. 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+V roce 2006 bylo možné si za průměrnou mzdu koupit 1 482 litrů mléka a 1 297 kg chleba, zatímco v roce 2018 to bylo 1 627 litrů mléka a 1 356 kg chleba. To znamená, že dostupnost těchto potravin se za sledované období mírně zlepšila.
