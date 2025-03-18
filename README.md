@@ -73,3 +73,6 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1 482 litrů mléka a 1 2
 
 # Otázka č. 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 Mezi potraviny s nejpomalejším růstem cen (tedy s nejnižší kladnou procentuální změnou) patří například banány s 7% nárůstem. Naopak některé potraviny, jako cukr krystalový a rajská jablka červená kulatá, v průběhu let dokonce zlevnily.
+
+# Otázka č. 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+V žádném roce nerostly ceny potravin o víc než 10 % rychleji než mzdy. Takže žádný takový rok neexistuje.
