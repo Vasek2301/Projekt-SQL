@@ -76,3 +76,7 @@ Mezi potraviny s nejpomalejším růstem cen (tedy s nejnižší kladnou procent
 
 # Otázka č. 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 V žádném roce nerostly ceny potravin o víc než 10 % rychleji než mzdy. Takže žádný takový rok neexistuje.
+
+# Otázka č. 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+Z dat to nevypadá, že by růst HDP měl jasný vliv na růst mezd nebo cen potravin. I když HDP rostlo hodně, mzdy nebo ceny potravin tolik nevyskočily. A někdy naopak. Takže přímá souvislost tam moc není.
+
